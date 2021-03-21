@@ -1,6 +1,6 @@
 
 #!/bin/bash
-Tags="fbarnabas-Trial1"
+Tags="falusi.barnabas-Trial1"
 KeyName="falusi.barnabas@gmail.com"
 CidrBlock="10.0.0.0/24" 
 Zone="eu-central-1a"
