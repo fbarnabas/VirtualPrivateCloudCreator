@@ -1,4 +1,3 @@
-
 #!/bin/bash
 Tags="falusi.barnabas-Trial1"
 KeyName="falusi.barnabas@gmail.com"
